@@ -17,7 +17,7 @@ Siga o passo a passo abaixo no seu terminal para clonar o repositório, configur
 
 ```bash
 # 1. Clone o repositório e acesse a pasta
-git clone [https://github.com/eniomartinst/desafio-b2bflow.git](https://github.com/eniomartinst/desafio-b2bflow.git)
+git clone https://github.com/eniomartinst/desafio-b2bflow.git
 cd desafio-b2bflow
 
 # 2. Crie e ative um ambiente virtual (Windows)
